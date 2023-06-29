@@ -1,2 +1,2 @@
 # Boost
-A landning page for the Boost Platform
+A landning page for the Boost Platform - welcome!
